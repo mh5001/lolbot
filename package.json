@@ -1,0 +1,13 @@
+{
+  "name": "tik_self_bot",
+  "version": "0.0.1",
+  "description": "A bot for Tik to program when he's bored",
+  "author": "TikhonK",
+  "license": "MIT",
+  "private": true,
+  "main": "bot.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
